@@ -1,4 +1,4 @@
-```markdown
+
 # 🎬 Vedantu YouTube Performance Optimizer
 
 A Streamlit web app that automatically analyzes underperforming Vedantu (or any educational) YouTube videos and suggests improvements to their metadata and thumbnail concept.  
@@ -25,13 +25,13 @@ Each suggestion is accompanied by an explanation of why it will help improve per
 
 ## 📦 Project Structure
 
-```
+
 
 Vedantu-Channel-Optimizer/
-├── app.py             # Main Streamlit application
-├── requirements.txt   # Python dependencies
-├── .env               # Environment variables (API keys)
-└── README.md          # This documentation file
+ 1. app.py             # Main Streamlit application
+ 2. requirements.txt   # Python dependencies
+ 3. .env               # Environment variables (API keys)
+ 4. README.md          # This documentation file
 
 ````
 
